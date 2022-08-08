@@ -1,3 +1,10 @@
+/*
+State & Zip Code data adapted from SimpleMaps
+https://simplemaps.com/data/us-zips
+Used under a Creative Commons Attribution 4.0 International (CC BY 4.0) license
+https://creativecommons.org/licenses/by/4.0/
+*/
+
 INSERT INTO state_zip (zip, state_id, state_name) VALUES (601, 'PR', 'Puerto Rico');
 INSERT INTO state_zip (zip, state_id, state_name) VALUES (602, 'PR', 'Puerto Rico');
 INSERT INTO state_zip (zip, state_id, state_name) VALUES (603, 'PR', 'Puerto Rico');
